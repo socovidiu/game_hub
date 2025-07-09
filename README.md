@@ -39,6 +39,5 @@ The app will be available at http://localhost:5173
 ### 📌 Planned Games
 ✅ Tic-Tac-Toe
 ⬜ Sudoku
-⬜ Connect Four
-⬜ Memory Game
 ⬜ Snake
+⬜ Wordle
